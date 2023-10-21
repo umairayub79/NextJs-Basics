@@ -1,0 +1,38 @@
+.nameDetailsContainer {
+  padding: 2rem;
+  text-align: center;
+}
+
+.backButton {
+  font-size: 1.1rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid rgb(185, 185, 185);
+  color: #555555;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  left: 30px;
+  top: 10%;
+  position: absolute;
+}
+
+.nameTitle {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.nameBalochi {
+  font-size: 1.5rem;
+  color: #555555;
+  margin-bottom: 2rem;
+}
+
+.details {
+  text-align: left;
+}
+
+.details p {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
